@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Autotroph.Common/bin
+/Autotroph.Common/obj
+*.suo
+/Autotroph.Node/obj
+/Autotroph.Node/bin
